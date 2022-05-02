@@ -4,7 +4,7 @@ import CompanyName from './components/CompanyName.vue'
 </script>
 
 <template>
-<div class="flex">
+<div>
   <CompanyName />
   <RouterView />
 </div>
